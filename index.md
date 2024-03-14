@@ -6,3 +6,10 @@
 ###### H6 header is small
 
 ![a lovely image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+...
+$ for line in 'cat loop'
+  do 
+    echo 'hello $line'
+  done
+...
