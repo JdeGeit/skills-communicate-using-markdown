@@ -13,3 +13,7 @@ $ for line in 'cat loop'
     echo 'hello $line'
   done
 ...
+
+- [x] start course
+- [x] Continue course
+- [ ] finish course
